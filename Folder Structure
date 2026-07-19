@@ -1,0 +1,20 @@
+enterprise-file-processing-service
+│
+├── app.py
+├── config.py
+├── watcher.py
+├── validator.py
+├── processor.py
+├── archive.py
+├── logger.py
+│
+├── config.json
+├── requirements.txt
+├── README.md
+│
+├── input/
+├── processing/
+├── output/
+├── archive/
+├── failed/
+└── logs/
