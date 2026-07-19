@@ -1,0 +1,8 @@
+{
+    "input_folder": "./input",
+    "processing_folder": "./processing",
+    "output_folder": "./output",
+    "archive_folder": "./archive",
+    "failed_folder": "./failed",
+    "log_folder": "./logs"
+}
